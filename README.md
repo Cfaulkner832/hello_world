@@ -3,4 +3,4 @@ Hello World in Python3
 
 Hi Humans!
 
-CHris here, I like python.
+Chris here, I like python.
